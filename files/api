@@ -1,1 +1,0 @@
-!function(){var t,e=document.currentScript||function(){var t=document.getElementsByTagName("script");return t.length?t[t.length-1]:void 0}();e&&(t=e.getAttribute("data-ref")),window[t||"crayfish"]={"API_PREFIX":"/restapi"}}();
